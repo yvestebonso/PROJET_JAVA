@@ -19,6 +19,7 @@ Sur l'interface de notre application, on peut :
 -   Lister tous les Client
 -   Rechercher un client
 -   Supprimer un Client
+-   compter le nombre de clients
 
 B- Véhicule
 
@@ -31,6 +32,7 @@ Sur l'interface de notre application, on peut :
 -   Lister tous les véhicule
 -   Rechercher un véhicule
 -   Supprimer un véhécule
+-   compter le nombre de véhicule
 
 C-Reservation
 pour effectuer une réservation, on a besoin du nom et du prénom du client , de la marque et du modèle du véhicule , de la date de début et de fin de la réservation
@@ -40,10 +42,10 @@ Sur l'interface graphique de notre application , on peut :
 -   Editer les informations sur la réservation d'un client donné.
 -   Lister toutes les réseravtions
 -   Lister toutes les réseravtions par raport à un client donné
--   Lister toutes les réservations par rapport à un véule donné
 -   Rechercher une réservation par rapport à un Client donné
 -   Rechercher une réservation par rapport à un véhicule donné
 -   supprimer une réservation
+-   compter le nombre de reservation
 
 
 
